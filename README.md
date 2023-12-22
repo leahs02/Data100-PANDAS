@@ -2,10 +2,10 @@
 Projects introducing PANDAS and interacting with real-world tabular data.
 
 ## Pandas I
-Tabular Data
-Series, DataFrames, Indicies
-DataFrame Attributes: Index, Columns, and Shape
-Slicing in DataFrames
+- Tabular Data
+- Series, DataFrames, Indicies
+- DataFrame Attributes: Index, Columns, and Shape
+- Slicing in DataFrames
 
 ## Pandas II
 Conditional Selection
