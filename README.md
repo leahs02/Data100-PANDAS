@@ -8,14 +8,14 @@ Projects introducing PANDAS and interacting with real-world tabular data.
 - Slicing in DataFrames
 
 ## Pandas II
-Conditional Selection
-Adding, Removing, and Modifying Columns
-Handy Utility Functions
-Custom Sorts
-Aggregating Data with .groupby
+- Conditional Selection
+- Adding, Removing, and Modifying Columns
+- Handy Utility Functions
+- Custom Sorts
+- Aggregating Data with .groupby
 
 ## Pandas III
-Aggregation Functions
-Plotting
-Piviot Tables
-Joining Tables
+- Aggregation Functions
+- Plotting
+- Piviot Tables
+- Joining Tables
